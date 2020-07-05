@@ -1,0 +1,11 @@
+{
+  "name": "wangchloe-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WangChloe/wangchloe-generator.git",
+  "author": "wangchloe <wangchloe@yeah.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "plop": "^2.7.1"
+  }
+}
